@@ -1,0 +1,222 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 43232400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user is on Retail website",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 47818600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_click_on_my_account()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 315174500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on Login option",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_click_on_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 72302000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user enter userName \"Yaraan202235@aol.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Yaraan202235@aol.com\"",
+                  "offset": 20
+                }
+              ],
+              "location": "step.definitions.RetailloginStepDef.user_enter_user_name(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50556300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User enter password \"124578\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"124578\"",
+                  "offset": 20
+                }
+              ],
+              "location": "step.definitions.RetailloginStepDef.user_enter_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 370528800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user click on login button",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_click_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141070800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user should be logged into myAccount dashboard",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_should_be_logged_into_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-06-21T03:42:43.924Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4375520300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "Edit your account Information",
+        "description": "",
+        "id": "retail-page-feature;edit-your-account-information",
+        "after": [
+          {
+            "result": {
+              "duration": 166933900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1182717800,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "User click on Edit your account information link",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_click_on_edit_your_account_information_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 352638900,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "User modify below information",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_modify_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstname",
+                  "lastName",
+                  "email",
+                  "telephone"
+                ]
+              },
+              {
+                "cells": [
+                  "Becca",
+                  "Loomis",
+                  "loomiMcbecca@tekschool.us",
+                  "7032223335050"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 392014100,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "User click on continue button",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.User_click_on_Continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 28260600,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "User should see a message",
+            "match": {
+              "location": "step.definitions.RetailloginStepDef.user_should_see_a_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@EditAccount"
+          }
+        ]
+      }
+    ],
+    "name": "Retail Page Feature",
+    "description": "",
+    "id": "retail-page-feature",
+    "keyword": "Feature",
+    "uri": "classpath:feature/RetailLogin.feature",
+    "tags": []
+  }
+]

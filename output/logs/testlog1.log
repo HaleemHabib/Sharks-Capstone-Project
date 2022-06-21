@@ -1,0 +1,1558 @@
+2022-06-04 14:54:16,930 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-04 14:54:21,541 [main] INFO .\src\test\resources\input\Log4j.properties - user is on Home Page
+2022-06-04 14:54:21,701 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-04 14:54:22,270 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-04 14:54:22,310 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-04 14:54:22,329 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-04 14:54:22,346 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-04 14:54:22,361 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-04 14:54:22,377 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-04 14:54:22,392 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-04 14:54:22,408 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-04 14:54:22,427 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-04 14:54:22,447 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-04 14:54:22,466 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-04 14:54:22,487 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-04 14:54:22,504 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-04 14:54:22,520 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-04 14:54:22,535 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-04 14:54:22,979 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-05 11:15:24,346 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-05 11:15:28,081 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 11:15:28,125 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MyAccount
+2022-06-05 11:15:28,339 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab FAILED
+2022-06-05 11:24:45,469 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-05 11:24:48,490 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab UNDEFINED
+2022-06-05 11:29:05,806 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-05 11:29:08,604 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 11:29:08,752 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 11:29:09,320 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 11:29:09,365 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-05 11:29:09,384 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-05 11:29:09,402 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-05 11:29:09,418 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-05 11:29:09,435 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-05 11:29:09,452 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-05 11:29:09,468 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-05 11:29:09,483 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-05 11:29:09,499 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-05 11:29:09,517 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-05 11:29:09,533 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-05 11:29:09,549 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-05 11:29:09,564 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-05 11:29:09,578 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-05 11:29:09,759 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-05 11:36:31,267 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-05 11:36:34,145 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 11:36:34,291 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 11:36:34,916 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 11:36:34,960 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-05 11:36:34,979 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-05 11:36:34,997 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-05 11:36:35,013 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-05 11:36:35,033 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-05 11:36:35,049 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-05 11:36:35,064 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-05 11:36:35,081 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-05 11:36:35,095 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-05 11:36:35,145 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-05 11:36:35,162 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-05 11:36:35,177 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-05 11:36:35,197 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-05 11:36:35,216 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-05 11:36:35,383 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-05 11:39:02,281 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-05 11:39:05,099 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 11:39:05,236 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 11:39:05,839 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 11:39:05,983 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-05 11:45:21,062 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-05 11:45:23,999 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 11:45:24,138 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 11:45:25,229 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 11:45:25,269 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on add to cart on Canon EOS5D
+2022-06-05 11:45:59,555 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-05 11:46:23,294 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-05 11:46:26,417 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 11:46:26,558 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 11:46:27,531 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 11:46:27,571 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on add to cart on Canon EOS5D
+2022-06-05 11:47:01,859 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-05 11:55:08,754 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-05 11:55:11,793 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 11:55:11,930 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 11:55:12,947 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 11:55:12,985 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on add to cart on Canon EOS5D
+2022-06-05 11:55:47,236 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-05 14:22:02,088 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-05 14:22:05,212 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 14:22:05,363 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 14:22:05,960 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 14:22:05,996 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on add to cart on Canon EOS5D
+2022-06-05 14:22:40,283 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-05 23:41:07,952 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-05 23:41:11,329 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 23:41:11,477 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 23:41:12,087 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 23:41:12,225 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-05 23:52:08,360 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-05 23:52:11,466 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 23:52:11,606 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 23:52:12,159 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 23:52:12,302 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-05 23:57:54,095 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-05 23:57:57,021 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-05 23:57:57,155 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-05 23:57:58,328 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-05 23:58:28,586 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-06 15:54:03,310 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-06 15:54:06,447 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 15:54:06,596 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 15:54:07,155 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 15:54:07,208 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-06 15:54:07,237 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-06 15:54:07,257 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-06 15:54:07,278 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-06 15:54:07,299 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-06 15:54:07,319 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-06 15:54:07,344 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-06 15:54:07,366 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-06 15:54:07,396 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-06 15:54:07,426 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-06 15:54:07,454 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-06 15:54:07,481 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-06 15:54:07,508 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-06 15:54:07,529 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-06 15:54:07,717 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-06 15:54:07,767 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-06 15:54:10,205 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 15:54:10,346 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 15:54:10,912 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 15:54:11,104 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-06 15:54:11,118 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 15:54:13,297 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 15:54:13,439 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 15:54:22,059 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-06 15:54:24,335 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 15:54:24,474 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 15:54:54,815 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-06 15:59:54,683 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 15:59:58,018 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 15:59:58,159 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 15:59:58,845 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 15:59:58,896 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:00:29,249 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-06 16:03:39,341 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 16:03:43,204 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:03:43,343 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:03:44,585 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:03:44,644 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:03:46,650 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-06 16:03:50,834 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-06 16:07:16,936 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 16:07:19,947 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:07:20,089 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:07:20,601 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:07:20,641 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:07:22,054 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-06 16:07:26,263 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-06 16:07:50,937 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 16:07:54,021 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:07:54,163 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:07:54,743 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:07:54,802 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:07:56,557 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-06 16:08:00,806 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-06 16:09:47,346 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 16:09:50,545 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:09:50,693 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:09:51,676 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:09:51,734 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:09:53,172 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-06 16:09:57,334 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-06 16:10:25,921 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-06 16:10:28,664 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:10:28,815 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:10:42,618 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-06 16:10:44,823 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:10:44,972 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:10:45,540 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:11:08,041 [main] INFO .\src\test\resources\input\Log4j.properties - User selected quantity 1
+2022-06-06 16:11:08,181 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-06 16:11:38,570 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-06 16:11:38,612 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 16:11:41,473 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:11:41,612 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:11:42,165 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:11:42,220 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:11:43,913 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-06 16:11:48,139 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-06 16:11:48,158 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-06 16:11:50,653 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:11:50,795 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:11:51,420 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:11:51,617 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-06 16:14:23,933 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 16:14:26,887 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:14:27,033 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:14:27,528 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:14:27,597 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:14:29,079 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-06 16:14:29,225 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-06 16:14:29,328 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-06 16:14:29,717 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-06-06 16:20:57,310 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-06 16:21:01,020 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-06 16:21:01,159 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-06 16:21:01,942 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-06 16:21:01,993 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-06 16:21:04,677 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-06 16:21:04,847 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-06 16:21:04,978 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-06 16:21:05,184 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-06 16:21:09,653 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-07 11:43:44,262 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-07 11:43:47,649 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 11:43:47,799 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 11:43:48,386 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 11:43:48,425 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-07 11:43:49,844 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-07 11:43:50,008 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-07 11:43:50,054 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-07 11:43:50,229 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-07 11:43:54,670 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-07 12:48:13,957 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-07 12:48:20,485 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 12:48:20,634 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 12:48:21,282 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 12:48:21,322 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-07 12:48:22,699 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-07 12:48:22,809 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-07 12:48:22,907 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-07 12:48:23,066 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-07 12:48:27,474 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-07 12:51:01,153 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-07 12:51:04,731 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 12:51:04,877 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 12:51:05,428 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 12:51:05,463 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-07 12:51:06,854 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-07 12:51:07,024 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-07 12:51:07,082 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-07 12:51:07,387 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-07 12:51:11,763 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-07 12:52:18,149 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-07 12:52:20,834 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 12:52:20,973 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 12:52:21,523 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 12:52:21,557 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-07 12:52:22,847 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-07 12:52:22,993 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-07 12:52:23,046 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-07 12:52:23,220 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-07 12:52:27,589 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-07 13:19:37,855 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-07 13:19:42,793 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 13:19:42,924 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 13:19:43,462 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 13:19:43,622 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-07 13:23:56,678 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-07 13:23:59,555 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 13:23:59,698 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 13:24:00,379 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 13:24:00,519 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-07 13:37:06,287 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-07 13:37:09,698 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 13:37:09,843 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 13:37:10,599 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 13:37:11,983 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on HP LP 3065 item
+2022-06-07 13:37:12,064 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-07 13:37:12,117 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-07 13:37:12,413 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-07 13:37:16,757 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-07 13:42:10,819 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-07 13:42:13,669 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 13:42:13,811 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-07 13:42:14,372 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-07 13:42:14,406 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on Canon EOS5D item
+2022-06-07 13:42:14,569 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-07 18:09:57,420 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-07 18:10:00,796 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account UNDEFINED
+2022-06-07 19:46:19,810 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-07 19:46:23,228 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account PASSED
+2022-06-07 23:28:30,785 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-07 23:28:33,797 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 23:28:34,028 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account PASSED
+2022-06-07 23:47:03,223 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-07 23:47:05,907 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 23:47:05,964 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-07 23:47:06,230 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-07 23:47:06,307 [main] INFO .\src\test\resources\input\Log4j.properties - User entered userName
+2022-06-07 23:47:06,589 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-07 23:47:06,589 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-07 23:47:06,770 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account PASSED
+2022-06-07 23:51:18,689 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-07 23:51:21,341 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-07 23:51:21,389 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-07 23:51:21,666 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-07 23:51:21,740 [main] INFO .\src\test\resources\input\Log4j.properties - User entered userName
+2022-06-07 23:51:22,000 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-07 23:51:22,001 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-07 23:51:22,338 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account PASSED
+2022-06-08 09:42:59,762 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-08 09:43:03,225 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 09:43:03,368 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 09:43:03,950 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 09:43:03,993 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-08 09:43:04,017 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-08 09:43:04,035 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-08 09:43:04,055 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-08 09:43:04,076 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-08 09:43:04,093 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-08 09:43:04,110 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-08 09:43:04,125 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-08 09:43:04,140 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-08 09:43:04,160 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-08 09:43:04,177 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-08 09:43:04,195 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-08 09:43:04,217 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-08 09:43:04,235 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-08 09:43:04,456 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-08 09:43:04,476 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-08 09:43:09,188 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 09:43:09,331 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 09:43:10,000 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 09:43:11,194 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on HP LP 3065 item
+2022-06-08 09:43:11,464 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-08 09:43:11,511 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-08 09:43:11,688 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-08 09:43:15,896 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-08 09:43:15,918 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-08 09:43:18,520 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 09:43:18,664 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 09:43:19,389 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 09:43:19,426 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-08 09:43:20,774 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-08 09:43:20,876 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-08 09:43:20,948 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-08 09:43:21,098 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-08 09:43:25,327 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-08 09:43:25,337 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-08 09:43:28,333 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 09:43:28,488 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 09:43:29,052 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 09:43:29,084 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on Canon EOS5D item
+2022-06-08 09:43:30,581 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on review tab
+2022-06-08 09:43:34,749 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-08 10:07:58,128 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 10:08:01,517 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 10:08:01,566 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 10:08:01,755 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 10:10:54,565 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 10:10:57,422 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 10:10:57,467 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 10:10:57,750 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 10:20:06,961 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 10:20:10,100 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 10:20:10,150 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 10:20:10,400 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 10:25:43,505 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 10:25:46,272 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 10:25:46,320 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 10:25:46,529 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account UNDEFINED
+2022-06-08 10:26:23,335 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 10:26:26,066 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 10:26:26,114 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 10:26:26,395 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 10:30:35,037 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 10:30:37,785 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 10:30:37,835 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 10:30:38,102 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 10:31:05,897 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 10:31:08,605 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 10:31:08,656 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 10:31:38,947 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 11:04:44,274 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 11:04:47,296 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:04:47,348 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 11:04:47,620 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 11:06:18,349 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 11:06:21,273 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:06:21,323 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 11:06:51,621 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 11:20:22,504 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-08 11:20:25,340 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:20:25,486 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 11:20:28,070 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 11:20:30,147 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-08 11:20:32,199 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-08 11:20:34,242 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-08 11:20:36,275 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-08 11:20:38,305 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-08 11:20:40,346 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-08 11:20:42,377 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-08 11:20:44,420 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-08 11:20:46,459 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-08 11:20:48,506 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-08 11:20:50,549 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-08 11:20:52,583 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-08 11:20:54,618 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-08 11:20:56,655 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-08 11:20:58,858 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-08 11:20:58,882 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-08 11:21:01,613 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:21:01,770 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 11:21:04,439 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 11:21:08,902 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on HP LP 3065 item
+2022-06-08 11:21:09,135 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-08 11:21:11,181 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-08 11:21:13,222 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-08 11:21:19,443 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-08 11:21:19,449 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-08 11:21:22,101 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:21:22,238 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 11:21:24,783 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 11:21:26,836 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-08 11:21:30,202 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-08 11:21:32,303 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-08 11:21:34,365 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-08 11:21:36,391 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-08 11:21:42,592 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-08 11:21:42,613 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-08 11:21:45,346 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:21:45,487 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-08 11:21:48,069 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-08 11:21:50,121 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on Canon EOS5D item
+2022-06-08 11:21:52,830 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on review tab
+2022-06-08 11:21:57,038 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-08 11:29:04,775 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 11:29:07,435 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:29:07,484 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 11:29:09,744 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 11:31:33,558 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario login to Retail website with existing account Started
+2022-06-08 11:31:36,429 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 11:31:36,475 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 11:31:38,731 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  login to Retail website with existing account FAILED
+2022-06-08 12:18:04,219 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 12:18:07,483 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 12:18:07,544 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 12:18:09,823 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-08 13:20:09,431 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 13:20:12,414 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 13:20:12,476 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 13:20:14,708 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-08 20:29:57,090 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 20:30:00,373 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 20:30:00,424 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 20:30:02,741 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 20:30:33,007 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 21:26:51,983 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 21:26:55,033 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 21:26:55,079 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 21:26:57,361 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 21:27:27,646 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 21:45:16,450 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 21:45:19,373 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 21:45:19,418 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 21:45:21,712 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:07:34,692 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 22:07:37,363 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 22:07:37,406 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 22:07:39,681 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:08:09,925 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 22:17:39,996 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 22:17:43,010 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 22:17:43,057 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 22:17:45,344 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:18:17,580 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 22:20:41,680 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 22:20:45,361 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 22:20:45,411 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 22:20:47,770 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:20:51,126 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 22:20:53,819 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 22:20:56,032 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-08 22:32:42,856 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 22:32:46,062 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 22:32:46,110 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 22:32:48,392 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:32:51,557 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 22:32:54,226 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 22:32:56,585 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on About Us
+2022-06-08 22:33:26,824 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 22:36:37,636 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 22:36:40,684 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 22:36:40,734 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 22:36:43,033 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:36:46,632 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 22:36:49,309 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 22:36:51,552 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on About Us
+2022-06-08 22:37:21,793 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 22:40:44,136 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 22:40:46,966 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 22:40:47,011 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 22:40:49,314 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:40:52,371 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 22:40:55,042 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 22:41:27,323 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 22:56:16,186 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 22:56:19,035 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 22:56:19,080 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 22:56:21,870 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 22:56:25,017 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 22:56:27,677 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 22:56:29,937 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-08 23:08:49,053 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 23:08:52,026 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 23:08:52,072 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 23:08:54,358 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 23:08:57,355 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 23:09:00,036 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 23:09:02,262 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-08 23:12:12,808 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 23:12:15,890 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 23:12:15,936 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 23:12:18,263 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 23:12:21,308 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 23:12:23,953 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 23:12:25,998 [main] INFO .\src\test\resources\input\Log4j.properties - Congratulation! your account has been created
+2022-06-08 23:12:28,199 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-08 23:16:34,283 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 23:16:37,161 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 23:16:37,205 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 23:16:39,662 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 23:16:42,474 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 23:16:45,138 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 23:17:21,446 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 23:19:17,939 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 23:19:20,831 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 23:19:20,881 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 23:19:23,162 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 23:19:26,120 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 23:19:28,784 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 23:20:01,072 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-08 23:21:25,312 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 23:21:28,573 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 23:21:28,619 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 23:21:30,898 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 23:21:34,213 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 23:21:36,884 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 23:21:39,202 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-08 23:21:41,247 [main] INFO .\src\test\resources\input\Log4j.properties - Congratulation! your account has been created
+2022-06-08 23:21:41,290 [main] INFO .\src\test\resources\input\Log4j.properties - User checked About Us check box
+2022-06-08 23:21:43,488 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-08 23:22:58,448 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 23:23:02,632 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 23:23:02,683 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 23:23:04,990 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 23:23:07,970 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 23:23:10,614 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 23:23:13,026 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-08 23:23:15,091 [main] INFO .\src\test\resources\input\Log4j.properties - Congratulation! your account has been created
+2022-06-08 23:23:17,157 [main] INFO .\src\test\resources\input\Log4j.properties - User checked About Us check box
+2022-06-08 23:23:19,363 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-08 23:25:17,194 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-08 23:25:21,715 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-08 23:25:21,761 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-08 23:25:24,037 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on Affiliate account link
+2022-06-08 23:25:27,127 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button option
+2022-06-08 23:25:49,884 [main] INFO .\src\test\resources\input\Log4j.properties - user filled affiliate form with below information
+2022-06-08 23:25:52,378 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-08 23:25:54,443 [main] INFO .\src\test\resources\input\Log4j.properties - Congratulation! your account has been created
+2022-06-08 23:25:56,510 [main] INFO .\src\test\resources\input\Log4j.properties - User checked About Us check box
+2022-06-08 23:25:58,725 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-09 10:50:10,880 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-09 10:50:14,141 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-09 10:50:14,191 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-09 10:50:16,402 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-09 13:44:46,774 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-09 13:44:50,233 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-09 13:44:50,284 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-09 13:44:52,517 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-09 13:57:23,320 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-09 13:57:26,127 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-09 13:57:26,177 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-09 13:57:58,470 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-09 15:27:51,692 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-09 15:27:55,205 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-09 15:27:55,277 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on my account
+2022-06-09 15:27:57,536 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information UNDEFINED
+2022-06-09 23:19:50,645 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-09 23:19:53,967 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-09 23:24:09,581 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-09 23:24:12,510 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-09 23:28:15,509 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-09 23:28:18,237 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-09 23:28:18,412 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 20:04:22,403 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 20:04:25,987 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 20:04:26,034 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 20:04:28,581 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 20:04:30,665 [main] INFO .\src\test\resources\input\Log4j.properties - User entered userName
+2022-06-10 20:04:33,326 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 20:04:35,337 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 20:04:35,726 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-10 20:13:39,937 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 20:13:42,781 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 20:13:42,832 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 20:13:45,090 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 20:13:47,176 [main] INFO .\src\test\resources\input\Log4j.properties - User entered userName
+2022-06-10 20:13:49,655 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 20:13:51,669 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 20:14:22,081 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 20:20:26,908 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 20:20:29,773 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 20:20:29,823 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 20:20:32,096 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 20:20:34,276 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-10 20:25:06,865 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 20:25:09,738 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 20:25:09,788 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 20:25:12,073 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 20:25:14,158 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 20:25:14,211 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 20:25:14,707 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 20:25:16,717 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 20:25:47,053 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 20:28:17,409 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 20:28:20,135 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 20:28:20,183 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 20:28:22,450 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 20:28:24,535 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 20:28:24,588 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 20:28:25,078 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 20:28:27,088 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 20:28:27,512 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 20:28:57,768 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 20:45:17,632 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 20:45:20,421 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 20:45:20,470 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 20:45:22,743 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 20:45:24,837 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 20:45:24,895 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 20:45:25,284 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 20:45:27,300 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 20:47:28,186 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 20:47:31,034 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 20:47:31,083 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 20:47:33,353 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 20:47:35,444 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 20:47:35,501 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 20:47:36,107 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 20:47:38,116 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 20:47:38,572 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 20:47:38,996 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-06-10 21:12:15,694 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 21:12:18,582 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 21:12:18,638 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 21:12:20,907 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 21:12:22,990 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 21:12:23,058 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 21:12:23,561 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 21:12:25,576 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 21:12:25,982 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 21:12:26,267 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-10 21:12:56,517 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 21:17:53,221 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 21:17:56,783 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 21:17:56,833 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 21:17:59,197 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 21:18:01,277 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 21:18:01,334 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 21:18:01,709 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 21:18:03,714 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 21:18:04,147 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 21:18:04,438 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-10 21:18:34,725 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 21:20:09,724 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 21:20:12,567 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 21:20:12,621 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 21:20:14,904 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 21:20:16,981 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 21:20:17,033 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 21:20:17,577 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 21:20:19,594 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 21:20:20,074 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 21:20:20,365 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-10 21:20:50,629 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 21:22:00,763 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 21:22:03,579 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 21:22:03,631 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 21:22:05,923 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 21:22:08,008 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 21:22:08,058 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 21:22:08,614 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 21:22:10,628 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 21:22:11,147 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 21:22:11,438 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-10 21:22:41,656 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 21:33:24,678 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 21:33:27,651 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 21:33:27,695 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 21:33:29,958 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 21:33:32,034 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 21:33:32,089 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 21:33:32,367 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 21:33:34,384 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 21:34:04,784 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 21:35:51,551 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 21:35:54,196 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 21:35:54,243 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 21:35:56,510 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 21:35:58,594 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 21:35:58,647 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 21:35:59,085 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 21:36:01,099 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 21:36:01,614 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 21:36:01,908 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-10 21:36:32,126 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-10 21:42:34,458 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-10 21:42:37,192 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 21:42:37,244 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 21:42:39,509 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 21:42:41,588 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 21:42:41,641 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 21:42:42,107 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 21:42:44,114 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 21:42:44,601 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-10 21:42:44,893 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-10 21:42:45,511 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-10 21:42:45,558 [main] INFO .\src\test\resources\input\Log4j.properties - Success message displayed
+2022-06-10 21:42:45,722 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-10 22:38:08,646 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-10 22:38:12,349 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 22:38:12,398 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 22:38:12,839 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 22:38:12,901 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 22:38:12,954 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 22:38:13,356 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 22:38:13,357 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 22:38:13,692 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-10 23:09:45,352 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-10 23:09:48,182 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 23:09:48,230 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 23:09:48,548 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 23:09:48,613 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 23:09:48,666 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 23:09:49,021 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 23:09:49,025 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 23:09:49,445 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-10 23:09:50,333 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-10 23:14:00,359 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-10 23:14:03,065 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 23:14:03,118 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 23:14:03,410 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 23:14:03,472 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 23:14:03,526 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 23:14:03,883 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 23:14:03,886 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 23:14:04,331 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-10 23:14:05,200 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-06-10 23:21:41,961 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-10 23:21:44,803 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 23:21:44,849 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 23:21:45,123 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 23:21:45,187 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 23:21:45,243 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 23:21:45,653 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 23:21:45,655 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 23:21:46,068 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-10 23:21:46,285 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-10 23:22:46,103 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-10 23:22:48,999 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 23:22:49,046 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 23:22:49,326 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 23:22:49,390 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 23:22:49,440 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 23:22:49,796 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 23:22:49,797 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 23:22:50,243 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-10 23:22:51,162 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-06-10 23:28:27,506 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-10 23:28:30,386 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 23:28:30,432 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 23:28:30,692 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 23:28:30,751 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 23:28:30,806 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 23:28:31,185 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 23:28:31,187 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 23:28:31,608 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-10 23:28:36,548 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-06-10 23:32:05,051 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-10 23:32:08,122 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-10 23:32:08,165 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-10 23:32:08,448 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-10 23:32:08,510 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-10 23:32:08,567 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-10 23:32:09,065 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-10 23:32:09,069 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-10 23:32:09,463 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information UNDEFINED
+2022-06-11 02:10:12,241 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:10:15,224 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:10:15,269 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:10:15,537 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:10:15,597 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:10:15,649 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:10:16,294 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:10:16,296 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:10:46,815 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information FAILED
+2022-06-11 02:18:46,406 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:18:49,163 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:18:49,215 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:18:49,479 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:18:49,542 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:18:49,591 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:18:50,018 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:18:50,020 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:18:51,688 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-11 02:18:55,920 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information UNDEFINED
+2022-06-11 02:23:30,391 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:23:33,894 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:23:33,947 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:23:34,242 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:23:34,305 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:23:34,363 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:23:34,614 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:23:34,617 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:24:05,002 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information FAILED
+2022-06-11 02:24:24,065 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:24:27,227 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:24:27,273 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:24:27,504 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:24:27,578 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:24:27,631 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:24:27,949 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:24:27,951 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:24:58,392 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information FAILED
+2022-06-11 02:26:35,040 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:26:40,193 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:26:40,241 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:26:40,620 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:26:40,685 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:26:40,741 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:26:41,015 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:26:41,017 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:28:22,497 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:28:25,556 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:28:25,600 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:28:25,848 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:28:25,913 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:28:25,966 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:28:26,217 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:28:26,219 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:31:21,062 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-11 02:31:24,256 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:31:24,306 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:31:24,578 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:31:24,643 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:31:24,695 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:31:25,047 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:31:25,048 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:31:25,475 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-11 02:31:25,747 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-11 02:31:26,211 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-11 02:31:26,259 [main] INFO .\src\test\resources\input\Log4j.properties - Success message displayed
+2022-06-11 02:31:26,560 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-11 02:31:26,610 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-11 02:31:29,198 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:31:29,241 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:31:29,523 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:31:29,585 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:31:29,634 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:31:29,973 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:31:29,974 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:31:30,386 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-11 02:31:31,385 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-11 02:31:31,549 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-11 02:31:31,570 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:31:34,623 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:31:34,664 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:31:34,930 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:31:35,004 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:31:35,052 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:31:35,389 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:31:35,390 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:31:36,969 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-11 02:32:39,760 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-11 02:32:42,768 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 02:32:42,814 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-11 02:32:43,067 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-11 02:32:43,136 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-11 02:32:43,186 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-11 02:32:43,541 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-11 02:32:43,543 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-11 02:32:45,286 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-11 02:32:45,315 [main] INFO .\src\test\resources\input\Log4j.properties - success MEssage is displayed
+2022-06-11 02:32:45,473 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information PASSED
+2022-06-11 13:20:12,633 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-11 13:20:15,748 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-11 13:20:15,938 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart UNDEFINED
+2022-06-12 00:00:46,508 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 00:00:50,575 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 00:00:50,646 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 00:00:51,109 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 00:00:52,389 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 00:00:52,428 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 00:00:54,488 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 00:00:56,521 [main] INFO .\src\test\resources\input\Log4j.properties - item showed to the cart
+2022-06-12 00:00:56,562 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on cart option
+2022-06-12 00:00:56,619 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on red x button to remove the item
+2022-06-12 00:01:00,865 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart FAILED
+2022-06-12 00:04:01,596 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 00:04:04,780 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 00:04:04,845 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 00:04:05,285 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 00:04:06,669 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 00:04:06,710 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 00:04:08,760 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 00:04:10,793 [main] INFO .\src\test\resources\input\Log4j.properties - item showed to the cart
+2022-06-12 00:04:10,841 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on cart option
+2022-06-12 00:04:10,897 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on red x button to remove the item
+2022-06-12 00:04:15,104 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart FAILED
+2022-06-12 00:09:35,302 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 00:09:38,497 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 00:09:38,571 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 00:09:39,046 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 00:09:40,263 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 00:09:40,306 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 00:09:42,361 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 00:09:48,581 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart FAILED
+2022-06-12 00:12:05,693 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 00:12:08,417 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 00:12:08,482 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 00:12:08,916 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 00:12:10,188 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 00:12:10,230 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 00:12:12,275 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 00:12:18,510 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart FAILED
+2022-06-12 15:30:43,443 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 15:30:46,779 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 15:30:46,855 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 15:30:47,317 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 15:30:48,586 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 15:30:48,644 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 15:30:50,715 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 15:30:56,925 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart FAILED
+2022-06-12 15:33:12,644 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 15:33:15,494 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 15:33:15,565 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 15:33:16,091 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 15:33:17,971 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 15:33:18,017 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 15:33:20,071 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 15:33:26,331 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart FAILED
+2022-06-12 15:34:42,164 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 15:34:45,008 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 15:34:45,083 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 15:34:45,599 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 15:34:46,912 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 15:34:46,951 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 15:34:48,993 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 15:34:51,031 [main] INFO .\src\test\resources\input\Log4j.properties - item showed to the cart
+2022-06-12 15:34:51,082 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on cart option
+2022-06-12 15:34:51,136 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on red x button to remove the item
+2022-06-12 15:34:51,174 [main] INFO .\src\test\resources\input\Log4j.properties - item removed and the cart shows empty
+2022-06-12 15:34:55,405 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart PASSED
+2022-06-12 15:37:13,232 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 15:37:16,743 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 15:37:16,810 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 15:37:17,272 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 15:37:18,904 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 15:37:18,947 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 15:37:21,008 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 15:37:23,062 [main] INFO .\src\test\resources\input\Log4j.properties - item showed to the cart
+2022-06-12 15:37:23,105 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on cart option
+2022-06-12 15:37:23,156 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on red x button to remove the item
+2022-06-12 15:37:23,179 [main] INFO .\src\test\resources\input\Log4j.properties - item removed and the cart shows empty
+2022-06-12 15:37:27,520 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart PASSED
+2022-06-12 15:50:08,124 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 15:50:11,446 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 15:50:11,693 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison UNDEFINED
+2022-06-12 17:22:01,932 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 17:22:04,965 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 17:22:35,328 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 17:23:56,812 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 17:23:59,543 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 17:23:59,614 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 17:24:00,378 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 17:24:00,436 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 17:24:00,497 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 17:24:30,759 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 17:27:24,622 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 17:27:27,292 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 17:27:27,364 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 17:27:27,819 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 17:27:27,883 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 17:27:27,944 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 17:27:58,280 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 17:29:34,795 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 17:29:37,373 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 17:29:37,444 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 17:29:37,889 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 17:30:08,120 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 17:30:51,765 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 17:30:54,474 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 17:30:54,539 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 17:30:55,559 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 17:30:55,610 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 17:30:55,665 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 17:31:52,657 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 17:31:55,400 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 17:31:55,469 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 17:31:55,910 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 17:31:55,967 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 17:31:56,020 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 17:32:26,238 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 19:25:34,965 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 19:25:38,130 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 19:25:38,210 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 19:25:38,631 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 19:25:38,689 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 19:25:38,748 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 19:26:09,028 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 19:32:18,832 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 19:32:21,929 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 19:32:21,994 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 19:32:22,445 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 19:32:22,511 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 19:32:22,734 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison UNDEFINED
+2022-06-12 19:35:54,080 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 19:35:56,713 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 19:35:56,779 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 19:35:57,209 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 19:35:57,265 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 19:35:57,326 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 19:36:27,536 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 19:39:13,127 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 19:39:15,812 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 19:39:15,879 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 19:39:16,332 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 19:39:16,396 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 19:39:16,471 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 19:39:46,730 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 19:49:33,706 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 19:49:36,442 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 19:49:36,514 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 19:49:37,454 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 19:49:37,516 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 19:49:37,574 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 19:50:07,846 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 20:29:24,791 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 20:29:27,683 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 20:29:27,769 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 20:29:28,211 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 20:29:28,274 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 20:29:28,328 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 20:29:58,584 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 20:40:44,794 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 20:40:47,603 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 20:40:47,666 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 20:40:48,116 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 20:40:48,177 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 20:40:48,234 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 20:41:18,459 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 20:43:43,306 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 20:43:46,027 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 20:43:46,122 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 20:43:46,546 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 20:43:50,731 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 22:40:55,110 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-12 22:40:58,138 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:40:58,207 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:40:58,655 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:40:59,814 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-12 22:40:59,861 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-12 22:41:01,918 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-12 22:41:03,964 [main] INFO .\src\test\resources\input\Log4j.properties - item showed to the cart
+2022-06-12 22:41:04,004 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on cart option
+2022-06-12 22:41:04,060 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on red x button to remove the item
+2022-06-12 22:41:04,090 [main] INFO .\src\test\resources\input\Log4j.properties - item removed and the cart shows empty
+2022-06-12 22:41:08,559 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart PASSED
+2022-06-12 22:42:53,920 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 22:42:56,772 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:42:56,846 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:42:57,293 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:42:57,353 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 22:42:57,406 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 22:43:27,696 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 22:48:13,387 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 22:48:16,467 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:48:16,534 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:48:16,988 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:48:27,670 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 22:49:51,298 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 22:49:54,104 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:49:54,168 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:49:54,604 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:49:54,664 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 22:49:54,710 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 22:50:12,642 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on product comparison link
+2022-06-12 22:50:12,668 [main] INFO .\src\test\resources\input\Log4j.properties - Product comparison chart is displayed
+2022-06-12 22:50:13,048 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison PASSED
+2022-06-12 22:50:41,880 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 22:50:44,573 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:50:44,636 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:50:45,061 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:50:45,118 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 22:50:45,162 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 22:51:15,389 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 22:52:56,269 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 22:52:59,282 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:52:59,349 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:52:59,801 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:52:59,859 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 22:52:59,914 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 22:53:30,142 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 22:55:25,462 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 22:55:29,078 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:55:29,150 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:55:29,571 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:55:29,633 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 22:55:29,690 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 22:55:59,997 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 22:58:38,403 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 22:58:41,335 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 22:58:41,411 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 22:58:41,902 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 22:58:41,973 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 22:58:42,033 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 22:59:12,323 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-12 23:07:06,653 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-12 23:07:09,533 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-12 23:07:09,598 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-12 23:07:10,042 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-12 23:07:10,111 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-12 23:07:10,173 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-12 23:07:19,864 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on product comparison link
+2022-06-12 23:07:21,911 [main] INFO .\src\test\resources\input\Log4j.properties - Product comparison chart is displayed
+2022-06-12 23:07:22,250 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison PASSED
+2022-06-12 23:14:09,194 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-12 23:14:12,370 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change UNDEFINED
+2022-06-12 23:36:38,667 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-12 23:36:41,997 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-12 23:42:51,945 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-12 23:42:55,157 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-12 23:46:23,985 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-12 23:46:27,056 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-12 23:51:25,356 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-12 23:51:28,450 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-12 23:51:52,939 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-12 23:52:25,805 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-12 23:56:03,156 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-12 23:56:36,111 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-13 00:00:47,836 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-13 00:00:51,391 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-13 00:02:02,950 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-13 00:02:05,844 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change FAILED
+2022-06-13 00:05:10,451 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-13 00:05:13,308 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on currency
+2022-06-13 00:05:13,751 [main] INFO .\src\test\resources\input\Log4j.properties - user chosed Euro from dropdown
+2022-06-13 00:05:13,812 [main] INFO .\src\test\resources\input\Log4j.properties - Euro icon is selected
+2022-06-13 00:05:14,020 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change PASSED
+2022-06-13 00:06:19,396 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-13 00:06:22,150 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on currency
+2022-06-13 00:06:22,744 [main] INFO .\src\test\resources\input\Log4j.properties - user chosed Euro from dropdown
+2022-06-13 00:06:22,782 [main] INFO .\src\test\resources\input\Log4j.properties - Euro icon is selected
+2022-06-13 00:06:22,939 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change PASSED
+2022-06-13 00:09:38,325 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User empty Shopping cart message displays Started
+2022-06-13 00:09:41,066 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User empty Shopping cart message displays UNDEFINED
+2022-06-13 00:31:23,955 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User empty Shopping cart message displays Started
+2022-06-13 00:31:28,568 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on shopping cart icon
+2022-06-13 00:31:28,646 [main] INFO .\src\test\resources\input\Log4j.properties - shopping cart empty message displayed
+2022-06-13 00:31:29,150 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User empty Shopping cart message displays PASSED
+2022-06-13 00:41:03,489 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Adding an item to Wish list Started
+2022-06-13 00:41:07,044 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-13 00:41:07,135 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-13 00:41:07,784 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-13 00:41:07,991 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Adding an item to Wish list UNDEFINED
+2022-06-13 10:27:38,698 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Adding an item to Wish list Started
+2022-06-13 10:27:42,609 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-13 10:27:42,680 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-13 10:27:43,125 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-13 10:27:43,336 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Adding an item to Wish list PASSED
+2022-06-13 11:06:59,880 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-06-13 11:07:03,250 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-13 11:07:03,329 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-13 11:07:04,285 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-13 11:07:04,520 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-06-13 11:34:25,839 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-06-13 11:34:28,835 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-13 11:34:28,907 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-13 11:34:29,955 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-13 11:34:31,135 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on Macbook Pro item
+2022-06-13 11:34:31,169 [main] INFO .\src\test\resources\input\Log4j.properties - Macbook pro price tag is displayed
+2022-06-13 11:34:35,431 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Validate the price of MacBook Pro is 2000 PASSED
+2022-06-16 16:16:33,742 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-16 16:16:37,878 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-16 16:16:38,039 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-16 16:16:40,590 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-16 16:16:42,653 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-16 16:16:44,709 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-16 16:16:46,758 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-16 16:16:48,791 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-16 16:16:50,832 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-16 16:16:52,874 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-16 16:16:54,904 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-16 16:16:56,953 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-16 16:17:11,545 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-16 16:17:13,921 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-16 16:17:14,064 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-16 16:17:46,460 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-16 16:17:46,521 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-16 16:17:48,928 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-16 16:17:49,086 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-16 16:18:10,997 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-16 16:18:13,400 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-16 16:18:13,539 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-16 16:23:42,199 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-16 16:23:45,331 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-16 16:23:45,416 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-16 16:23:46,206 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-16 16:23:46,294 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-16 16:23:46,366 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-16 16:24:16,751 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-16 17:13:03,709 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-16 17:13:07,001 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-16 17:13:07,096 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-16 17:13:07,576 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-16 17:13:07,667 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-16 17:13:07,731 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-16 17:13:38,149 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-16 17:22:19,538 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-16 17:22:22,933 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-16 17:22:23,034 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-16 17:22:23,473 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-16 17:22:23,553 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-16 17:22:23,614 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-16 17:22:23,704 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-16 18:17:02,116 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-17 11:14:02,447 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-17 11:14:05,459 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-17 11:14:05,610 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-17 11:14:08,174 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-17 11:14:10,244 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-17 11:14:12,285 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-17 11:14:14,330 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-17 11:14:16,372 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-17 11:14:18,404 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-17 11:14:20,444 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-17 11:14:22,476 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-17 11:14:24,504 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-17 11:14:26,555 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-17 11:14:28,595 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-17 11:14:30,629 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-17 11:14:32,666 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-17 11:14:34,702 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-17 11:14:36,747 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-17 11:14:38,933 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-17 11:19:25,185 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-17 11:19:28,590 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-17 11:19:28,727 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-17 11:19:31,481 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-17 11:19:35,774 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on HP LP 3065 item
+2022-06-17 11:19:36,032 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-17 11:19:38,087 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-17 11:20:14,350 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-18 11:17:18,348 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-18 11:17:22,654 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-18 11:17:22,805 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-18 11:17:25,655 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-18 11:17:29,640 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on HP LP 3065 item
+2022-06-18 11:17:29,894 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-18 11:17:31,954 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-18 11:18:04,362 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-06-18 11:32:26,168 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-18 11:32:29,115 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-18 11:32:29,267 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-18 11:32:31,861 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-18 11:32:33,923 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-18 11:32:37,463 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-18 11:32:39,592 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-18 11:32:41,656 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-18 11:32:43,710 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-18 11:32:47,949 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-18 11:37:18,602 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-18 11:37:21,551 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-18 11:37:21,690 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-18 11:37:24,346 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-18 11:37:29,724 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on HP LP 3065 item
+2022-06-18 11:37:30,001 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-18 11:37:32,055 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-18 11:37:34,094 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-18 11:37:38,310 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-18 11:38:39,433 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-06-18 11:38:42,803 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-18 11:38:42,940 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-18 11:38:45,597 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-18 11:38:49,976 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on HP LP 3065 item
+2022-06-18 11:38:50,247 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-18 11:38:52,312 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-18 11:38:54,359 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-18 11:38:58,560 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-18 11:39:37,369 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-18 11:39:40,278 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-18 11:39:40,427 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-18 11:39:43,083 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-18 11:39:45,147 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked Add to cart option on Canon EOS 5D Item
+2022-06-18 11:39:48,706 [main] INFO .\src\test\resources\input\Log4j.properties - User selected Red Dropdown option on Canon EOS 5D Item
+2022-06-18 11:39:50,819 [main] INFO .\src\test\resources\input\Log4j.properties - User input 1 into Quantity Field
+2022-06-18 11:39:52,906 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-18 11:39:54,946 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-18 11:39:59,169 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-18 11:41:49,088 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify all items are present in the Desktops tab Started
+2022-06-18 11:41:52,563 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-18 11:41:52,707 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-18 11:41:55,721 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-18 11:41:57,781 [main] INFO .\src\test\resources\input\Log4j.properties - HP Banner:  is present in this page
+2022-06-18 11:41:59,830 [main] INFO .\src\test\resources\input\Log4j.properties - Desktops:  is present in this page
+2022-06-18 11:42:01,871 [main] INFO .\src\test\resources\input\Log4j.properties - Apple Cinema 30":  is present in this page
+2022-06-18 11:42:03,916 [main] INFO .\src\test\resources\input\Log4j.properties - Canon EOS 5D Camera:  is present in this page
+2022-06-18 11:42:05,951 [main] INFO .\src\test\resources\input\Log4j.properties - HP LP3065:  is present in this page
+2022-06-18 11:42:07,985 [main] INFO .\src\test\resources\input\Log4j.properties - HTC Touch HD:  is present in this page
+2022-06-18 11:42:10,020 [main] INFO .\src\test\resources\input\Log4j.properties - iPhone:  is present in this page
+2022-06-18 11:42:12,054 [main] INFO .\src\test\resources\input\Log4j.properties - iPod Classic:  is present in this page
+2022-06-18 11:42:14,095 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook:  is present in this page
+2022-06-18 11:42:16,143 [main] INFO .\src\test\resources\input\Log4j.properties - MacBook Air:  is present in this page
+2022-06-18 11:42:18,182 [main] INFO .\src\test\resources\input\Log4j.properties - Palm Treo Pro:  is present in this page
+2022-06-18 11:42:20,219 [main] INFO .\src\test\resources\input\Log4j.properties - Product 8:  is present in this page
+2022-06-18 11:42:22,264 [main] INFO .\src\test\resources\input\Log4j.properties - Samsung SyncMaster 941BW:  is present in this page
+2022-06-18 11:42:24,298 [main] INFO .\src\test\resources\input\Log4j.properties - Sony VAIO:  is present in this page
+2022-06-18 11:42:26,487 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify all items are present in the Desktops tab PASSED
+2022-06-18 11:44:47,498 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-18 11:44:50,350 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-18 11:44:50,502 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-18 11:44:53,093 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-18 11:44:55,136 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on Canon EOS5D item
+2022-06-18 11:44:57,235 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on review tab
+2022-06-18 11:45:01,455 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-20 13:12:03,374 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-20 13:12:06,732 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 13:12:06,876 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-20 13:12:09,474 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-20 13:12:11,523 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on Canon EOS5D item
+2022-06-20 13:12:14,489 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on review tab
+2022-06-20 13:12:48,841 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-20 13:16:28,009 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-20 13:16:30,753 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 13:16:30,887 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-20 13:16:33,448 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-20 13:16:35,500 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on Canon EOS5D item
+2022-06-20 13:16:37,927 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on review tab
+2022-06-20 13:17:12,345 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-20 13:32:47,074 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-20 13:32:50,159 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 13:32:50,302 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Desktop tab
+2022-06-20 13:32:52,869 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all Desktops
+2022-06-20 13:32:54,918 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to cart on Canon EOS5D item
+2022-06-20 13:33:32,138 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-06-20 22:25:44,557 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-20 22:25:48,121 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on currency
+2022-06-20 22:25:48,580 [main] INFO .\src\test\resources\input\Log4j.properties - user chosed Euro from dropdown
+2022-06-20 22:25:48,631 [main] INFO .\src\test\resources\input\Log4j.properties - Euro icon is selected
+2022-06-20 22:25:48,773 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change PASSED
+2022-06-20 22:26:09,434 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User verify currency values change Started
+2022-06-20 22:26:12,438 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on currency
+2022-06-20 22:26:12,929 [main] INFO .\src\test\resources\input\Log4j.properties - user chosed Euro from dropdown
+2022-06-20 22:26:12,966 [main] INFO .\src\test\resources\input\Log4j.properties - Euro icon is selected
+2022-06-20 22:26:13,108 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User verify currency values change PASSED
+2022-06-20 22:26:53,167 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario User empty Shopping cart message displays Started
+2022-06-20 22:26:56,363 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on shopping cart icon
+2022-06-20 22:26:56,424 [main] INFO .\src\test\resources\input\Log4j.properties - shopping cart empty message displayed
+2022-06-20 22:26:56,804 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  User empty Shopping cart message displays PASSED
+2022-06-20 22:27:52,702 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Add and Remove a Mac book from Cart Started
+2022-06-20 22:27:56,043 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:27:56,109 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:27:56,576 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:27:58,558 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on MacBook item
+2022-06-20 22:27:58,602 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked add to Cart button
+2022-06-20 22:28:00,638 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 22:28:00,671 [main] INFO .\src\test\resources\input\Log4j.properties - item showed to the cart
+2022-06-20 22:28:00,706 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on cart option
+2022-06-20 22:28:00,762 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on red x button to remove the item
+2022-06-20 22:28:00,796 [main] INFO .\src\test\resources\input\Log4j.properties - item removed and the cart shows empty
+2022-06-20 22:28:05,176 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Add and Remove a Mac book from Cart PASSED
+2022-06-20 22:28:40,164 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Adding an item to Wish list Started
+2022-06-20 22:28:43,070 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:28:43,138 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:28:43,950 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:28:43,992 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on heart icon on Sony VaIO laptop wish list
+2022-06-20 22:28:44,148 [main] INFO .\src\test\resources\input\Log4j.properties - Create account warning message displayed
+2022-06-20 22:28:44,291 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Adding an item to Wish list PASSED
+2022-06-20 22:29:36,180 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-06-20 22:29:41,066 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:29:41,138 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:29:41,580 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:29:44,769 [main] INFO .\src\test\resources\input\Log4j.properties - USer clicked on Macbook Pro item
+2022-06-20 22:29:44,807 [main] INFO .\src\test\resources\input\Log4j.properties - Macbook pro price tag is displayed
+2022-06-20 22:29:49,018 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Validate the price of MacBook Pro is 2000 PASSED
+2022-06-20 22:30:26,541 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 22:30:30,756 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:30:30,820 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:30:31,395 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:30:31,456 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 22:30:31,504 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 22:30:31,646 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 22:31:01,915 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-20 22:47:11,910 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 22:47:15,549 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:47:15,632 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:47:16,563 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:47:16,621 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 22:47:16,674 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 22:47:16,819 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 22:52:40,643 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 22:52:45,155 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:52:45,226 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:52:46,294 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:52:46,355 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 22:52:46,414 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 22:52:46,628 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 22:53:16,872 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-20 22:56:30,318 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 22:56:33,383 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:56:33,453 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:56:34,209 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:56:34,273 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 22:56:34,326 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 22:56:34,544 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 22:57:04,756 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-20 22:57:46,110 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 22:57:51,810 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 22:57:51,876 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 22:57:52,735 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 22:57:52,789 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 22:57:52,844 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 22:57:53,118 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 22:57:59,422 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on product comparison link
+2022-06-20 22:58:01,461 [main] INFO .\src\test\resources\input\Log4j.properties - Product comparison chart is displayed
+2022-06-20 22:58:01,793 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison PASSED
+2022-06-20 23:00:42,819 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 23:00:46,168 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:00:46,233 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 23:00:46,978 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 23:00:47,034 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 23:00:47,084 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 23:00:47,226 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 23:01:17,454 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-20 23:06:25,993 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 23:06:29,254 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:06:29,325 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 23:06:30,218 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 23:06:30,264 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 23:06:30,318 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 23:06:30,596 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 23:07:00,815 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison FAILED
+2022-06-20 23:07:57,573 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Product Comparison Started
+2022-06-20 23:08:01,883 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:08:01,950 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on Laptops and notebooks tab
+2022-06-20 23:08:02,508 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on show all laoptop and notebook option
+2022-06-20 23:08:02,568 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on copmarison icon on MacBook
+2022-06-20 23:08:02,620 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on comparison icon on MacBook Air
+2022-06-20 23:08:02,765 [main] INFO .\src\test\resources\input\Log4j.properties - Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-06-20 23:08:13,145 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on product comparison link
+2022-06-20 23:08:15,184 [main] INFO .\src\test\resources\input\Log4j.properties - Product comparison chart is displayed
+2022-06-20 23:08:15,506 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Product Comparison PASSED
+2022-06-20 23:12:01,696 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-20 23:12:06,162 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:12:06,211 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:12:06,507 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:12:06,587 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:12:06,637 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:12:06,899 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:12:06,901 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:12:42,899 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-20 23:12:46,769 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:12:46,821 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:12:47,167 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:12:47,240 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:12:47,295 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:12:47,605 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:12:47,606 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:14:58,623 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-20 23:15:01,567 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:15:01,617 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:15:01,917 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:15:01,987 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:15:02,058 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:15:02,461 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:15:02,463 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:15:02,879 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on register For Affiliate Account
+2022-06-20 23:15:03,298 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on about us check box
+2022-06-20 23:15:03,748 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-20 23:15:03,788 [main] INFO .\src\test\resources\input\Log4j.properties - Success message displayed
+2022-06-20 23:15:04,123 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-20 23:17:59,688 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-20 23:18:03,795 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:18:03,842 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:18:04,194 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:18:04,260 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:18:04,309 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:18:04,696 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:18:04,698 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:18:35,086 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-20 23:22:35,678 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-20 23:22:38,829 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:22:38,879 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:22:39,344 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:22:39,413 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:22:39,468 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:22:39,840 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:22:39,841 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:22:40,266 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-20 23:22:41,165 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-20 23:22:41,338 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-06-20 23:30:10,329 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-20 23:30:13,708 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:30:13,756 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:30:14,142 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:30:14,212 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:30:14,267 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:30:14,666 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:30:14,668 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:30:15,116 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-20 23:30:15,941 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-20 23:30:16,105 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-20 23:32:57,478 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-20 23:33:00,963 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:33:01,015 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:33:01,366 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:33:01,436 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:33:01,489 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:33:01,981 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:33:01,983 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:33:02,403 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-20 23:33:03,183 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-20 23:33:03,371 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-20 23:38:21,029 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-20 23:38:24,523 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:38:24,571 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:38:24,889 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:38:24,960 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:38:25,018 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:38:25,513 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:38:25,515 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:38:25,939 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-20 23:38:26,731 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-20 23:38:26,997 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-20 23:40:54,136 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-20 23:40:57,842 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:40:57,888 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:40:58,277 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:40:58,346 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:40:58,401 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:40:58,817 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:40:58,818 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:40:59,369 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on edit your affiliate information
+2022-06-20 23:41:00,325 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-20 23:41:00,503 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-20 23:42:44,067 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario Edit your account Information Started
+2022-06-20 23:42:48,414 [main] INFO .\src\test\resources\input\Log4j.properties - User is on Retail website
+2022-06-20 23:42:48,462 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on my account
+2022-06-20 23:42:48,778 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login Option
+2022-06-20 23:42:48,852 [main] INFO .\src\test\resources\input\Log4j.properties - User entered email value
+2022-06-20 23:42:48,904 [main] INFO .\src\test\resources\input\Log4j.properties - User entered password value
+2022-06-20 23:42:49,273 [main] INFO .\src\test\resources\input\Log4j.properties - User clicked on login button
+2022-06-20 23:42:49,275 [main] INFO .\src\test\resources\input\Log4j.properties - User should be logged into myAccount dashboard
+2022-06-20 23:42:51,344 [main] INFO .\src\test\resources\input\Log4j.properties - user clicked on continue button
+2022-06-20 23:42:51,374 [main] INFO .\src\test\resources\input\Log4j.properties - success MEssage is displayed
+2022-06-20 23:42:51,542 [main] INFO .\src\test\resources\input\Log4j.properties - Scenario  Edit your account Information PASSED
